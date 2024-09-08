@@ -1,0 +1,17 @@
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\bin\Debug\BMS.exe.config
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\bin\Debug\BMS.exe
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\bin\Debug\BMS.pdb
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Form1.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Properties.Resources.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.exe
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.pdb
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Main.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Customers.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Accounts.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Transactions.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Loans.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Employees.resources
+C:\Users\arthe\Desktop\Programowanie\c#_programms\BMS\obj\Debug\BMS.Dashboard.resources
