@@ -10,6 +10,7 @@ App allows user to:
 - Search through the accounts table by owners id
 - Dynamically update account balance depending on type of transaction added to the DB,
 - View live statistics on a dashbboard
+- Use login credentials system
 
 ## Technologies used
 
@@ -34,3 +35,4 @@ App allows user to:
    - Enter "BankDB.bak" as "File name" or click the file
    - Press OK three times
 3. Use the app ;)
+   - Username: admin, password: admin is already included to the DB
